@@ -33,16 +33,20 @@ The coconut shell charcoal industry and/or those that have been processed into c
 Pondal Token Is Building a technology-based community and building a community mindset to be able to carry out activities with modern technology.
 
 
-https://tronscan.org/#/token20/TR2oWhGCZvJ66auASUP1qQ2dPq7bqTckcH
+Blockexplorer : https://tronscan.org/#/token20/TR2oWhGCZvJ66auASUP1qQ2dPq7bqTckcH
 
+Contract : TR2oWhGCZvJ66auASUP1qQ2dPq7bqTckcH
+Market V1 : https://sunswap.com/#/scan/detail/TR2oWhGCZvJ66auASUP1qQ2dPq7bqTckcH
+Market V2 : https://sunswap.com/#/scanv2/detail/TBchoqpYpugffugjQ8Et3Kah356MhRDLLM
 
-https://sunswap.com/#/scan/detail/TR2oWhGCZvJ66auASUP1qQ2dPq7bqTckcH
+Logo Pondal Token : https://static.tronscan.org/production/upload/logo/new/TR2oWhGCZvJ66auASUP1qQ2dPq7bqTckcH.png?t=1669907127220
 
 
 Pear To Pear Wallet Pondal Token : TCDjL4DrjTda9sLgS4nrXDLGDSLTNXb2nA
 
 
 Our Official Website : https://pondal.online/
+Market Online Shop.  : https://market.pondal.online/
 
 
 
